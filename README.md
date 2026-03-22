@@ -74,9 +74,9 @@ de las grandes civilizaciones de la humanidad.
 
 | Perfil | Duracion | Territorios | Comercio |
 |--------|----------|-------------|---------|
-| Imperio Regional | 272 anos | 6 | 13% |
-| Gran Imperio Territorial | 406 anos | 27 | 4% |
-| Imperio Comercial | 448 anos | 8 | 67% |
+| Imperio Regional | 272 años | 6 | 13% |
+| Gran Imperio Territorial | 406 años | 27 | 4% |
+| Imperio Comercial | 448 años | 8 | 67% |
 
 ### Hallazgo clave
 Los imperios con mayor actividad comercial (Cluster 2)
